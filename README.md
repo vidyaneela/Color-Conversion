@@ -24,6 +24,7 @@ End the program and close the output image windows.
 ```
 # Developed By:VIDYA NEELA M
 # Register Number:212221230120
+```
 ### Original:
 ```
 rick_color_image = cv2.imread('1bird.jpg')
